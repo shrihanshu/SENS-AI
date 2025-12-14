@@ -1,5 +1,5 @@
 # AI Career Coach
-
+Live Preview - https://sens-g0zvq2ofl-mshrihanshu-1507s-projects.vercel.app/
 AI-powered career coach built with Next.js, Prisma, Neon, Clerk, and Groq.
 
 ## What it does
